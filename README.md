@@ -3,6 +3,8 @@ Html/Css/JS project
 
 
 <h2>mini obzor</h2>
+
+
 ![image](https://user-images.githubusercontent.com/82625479/170694093-585c3b47-73cb-4464-9da9-1edb71de5110.png)
 
 
